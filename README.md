@@ -15,4 +15,6 @@ by importing it from Shared folder.
 
 1a)set Share as allias in Webpack
 
-2 pass button text as a pops
+2) pass button text as a pops
+
+
