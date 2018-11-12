@@ -13,8 +13,15 @@ eject project
 1)create Button.js with stateless component and render it in App file
 by importing it from Shared folder.
 
-1a)set Share as allias in Webpack
+- (optional) set Share as allias in Webpack
 
 2) pass button text as a pops
+
+### Styling
+
+1) inline styles
+2) import Styles from less file
+
+
 
 

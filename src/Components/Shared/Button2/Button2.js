@@ -1,7 +1,12 @@
 import React from 'react'
 
+const styles = {
+    color: white;
+    backgroud-color: gray;
+}
+
 const Button2 = (props) => (
-    <button> {props.text} </button>
+    <button style={style}> {props.text} </button>
  )
 
 export default Button2
