@@ -2,7 +2,6 @@ import React from 'react'
 
 const styles = {
   default: {
-
     color: "#fff",
     backgroundColor: "#d1d1d1",
     },
