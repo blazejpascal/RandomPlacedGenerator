@@ -12,7 +12,7 @@ const styles = {
 
 const Button2 = (props) => {
     const updatedStyles = props.isVisible === true ? styles.default : styles.invisible
-    return(
+    return (
           <button onClick={props.onClick} style={updatedStyles}> {props.text} </button>
        )
  }

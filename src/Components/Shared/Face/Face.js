@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './face.scss'
 
 const Face = (props) => {
