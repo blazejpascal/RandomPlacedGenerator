@@ -1,4 +1,4 @@
-# Basic React Course
+# Basic React Course (in future, for now it is Random placed Rick's face)
 
 ## Purpose
 Learn how to use basic React
